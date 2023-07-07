@@ -8,6 +8,7 @@
 - 📫 Como llegar a mi...
 - Puedes buscarme un facebook https://web.facebook.com/BetoAsesorTech/
 - En Instagram https://www.instagram.com/b3tograf_dev/
+- En linkedin https://www.linkedin.com/in/betorockers/
 
 <!---
 betorockers/betorockers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
