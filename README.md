@@ -1,5 +1,3 @@
-## Desarrollo 
-
 - 👋 Hola soy @betorockers
 - 👀 Mis intereses son ...
 - desarrollo web backend, machine learnig y big data .
