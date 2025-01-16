@@ -12,9 +12,10 @@
 
 
 <h1 align="center">Hola 👋 , soy Omar Toledo "BetoRock"</h1>
-<h3 align="center">Un apasionado del desarrollo web Integral, Frontend & Backend con conocimientos fundamentales y prácticos en Python/Django, Java/Thymeleaf, HTML Semántico, CSS Bootstrap, JavaScript manejo del DOM.</h3><p align="left"> <
-
-img src="https://komarev.com/ghpvc/?username=betorockers&label=Profile%20views&color=0e75b6&style=flat" alt="betorockers" /> </p>
+<h3 align="center">Un apasionado del desarrollo web Integral, Frontend & Backend con conocimientos fundamentales y prácticos en Python/Django, Java/Thymeleaf, HTML Semántico, CSS Bootstrap, JavaScript manejo del DOM.</h3>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=betorockers&label=Profile%20views&color=0e75b6&style=flat" alt="betorockers" /> 
+</p>
 
 - 🔭Actualmente estoy trabajando en [Gestión de Contactos](https://github.com/betorockers/Sistema_Contactos)
 
