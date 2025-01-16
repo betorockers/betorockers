@@ -3,7 +3,7 @@
 
 - 🔭Actualmente estoy trabajando en [Gestión de Contactos](https://github.com/betorockers/Sistema_Contactos)
 
-- 🌱 Actualmente estoy aprendiendo **Bootcamp Java Trainee TalentoDigitalChile, Udemy (python/Django,Flask)**-
+- 🌱 Actualmente estoy aprendiendo **Bootcamp Java Trainee en Talento Digital Chile, tomando cursos online en Udemy (python/Django,Flask)**
 
 Puedes Revisar este Proyecto [Descargador de videos de YT](https://github.com/betorockers/YT-Downloads)
 
