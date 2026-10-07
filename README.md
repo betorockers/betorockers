@@ -161,5 +161,6 @@ Si tu empresa requiere:
   </a>
   <br><br>
   <p><b>Omar Toledo // BetoGraf Inc. SpA</b><br>
+  Programación - Desarrollo Web y Servicios tecnologicos Toledos SpA<br>
   <i><a href="mailto:contacto@betograf.cl" target="_blank" rel="noopener noreferrer">contacto@betograf.cl</a> • <a href="https://wa.me/56933445244" target="_blank" rel="noopener noreferrer">+56 9 3344 5244</a> • Santiago, Chile</i></p>
 </div>
