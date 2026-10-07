@@ -139,19 +139,69 @@ Diseño y despliegue de soluciones tecnológicas de alto calibre para empresas q
 ---
 ## 🛠️ Arsenal Tecnológico & Especialidades de Arquitectura
 
-```text
-┌─────────────────────────┬──────────────────────────────────────────────────────────────────┐
-│ DOMINIO DE INGENIERÍA   │ STACK TECNOLÓGICO SELECCIONADO                                   │
-├─────────────────────────┼──────────────────────────────────────────────────────────────────┤
-│ Alto Rendimiento & Core │ Python 3.12, Cython (C-Extensions), C, Java (Spring Boot)        │
-│ Ecosistema FullStack    │ TypeScript, JavaScript, Next.js 14/15, Django, FastAPI, Node.js  │
-│ Interfaces & Móvil      │ React, Tailwind CSS, Flutter, HTMX, PWA Offline-First            │
-│ Bases de Datos & Cache  │ PostgreSQL, SQLite (WAL / ACID), Supabase, Firebase, IndexedDB   │
-│ Ciberseguridad & Redes  │ FIDO2 / WebAuthn, DPI (Deep Packet Inspection), Scapy, Linux OS  │
-│ Inteligencia Artificial │ LLM Tool-Calling, RAG Pipelines, Hugging Face Inference API      │
-│ Despliegue & Cloud      │ Vercel Edge, Google Cloud Platform (GCP), Docker, CI/CD Actions  │
-└─────────────────────────┴──────────────────────────────────────────────────────────────────┘
-```
+<table width="100%">
+  <tr>
+    <td width="26%" valign="top"><b>⚡ Core & Alto Rendimiento</b></td>
+    <td width="74%">
+      <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.12" />
+      <img src="https://img.shields.io/badge/Cython_C--Engine-FFD43B?style=for-the-badge&logo=cython&logoColor=black" alt="Cython C-Engine" />
+      <img src="https://img.shields.io/badge/C_Language-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+      <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>🌐 Ecosistema Web & FullStack</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 19" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/HTMX-336699?style=for-the-badge&logo=htmx&logoColor=white" alt="HTMX" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>📱 Móvil & PWA Offline-First</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+      <img src="https://img.shields.io/badge/PWA_Offline--First-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA Offline-First" />
+      <img src="https://img.shields.io/badge/IndexedDB-F58220?style=for-the-badge&logo=html5&logoColor=white" alt="IndexedDB" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>🗄️ Persistencia & Bases de Datos</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/SQLite_WAL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite WAL" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>🛡️ Ciberseguridad, Redes & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FIDO2_WebAuthn-2D3748?style=for-the-badge&logo=fido&logoColor=white" alt="FIDO2 WebAuthn" />
+      <img src="https://img.shields.io/badge/Scapy_DPI_Telemetry-00F0FF?style=for-the-badge&logo=wireshark&logoColor=black" alt="Scapy DPI" />
+      <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+      <img src="https://img.shields.io/badge/Vercel_Edge-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Edge" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>🧠 Inteligencia Artificial Aplicada</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LLM_Tool--Calling-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Tool-Calling" />
+      <img src="https://img.shields.io/badge/RAG_Pipelines-6366F1?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG Pipelines" />
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+    </td>
+  </tr>
+</table>
 
 ---
 
