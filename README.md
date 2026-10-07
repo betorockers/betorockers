@@ -107,10 +107,21 @@
 </table>
 
 ---
-
 ## 🛠️ Arsenal Tecnológico & Especialidades de Arquitectura
 
-┌─────────────────────────┬──────────────────────────────────────────────────────────────────┐ │ DOMINIO │ STACK TECNOLÓGICO SELECCIONADO │ ├─────────────────────────┼──────────────────────────────────────────────────────────────────┤ │ Alto Rendimiento & Core │ Python 3.12, Cython (C-Extensions), C, Java (Spring Boot) │ │ Ecosistema FullStack │ TypeScript, JavaScript, Next.js 14/15, Django, FastAPI, Node.js │ │ Interfaces & Móvil │ React, Tailwind CSS, Flutter, HTMX, PWA Offline-First │ │ Bases de Datos & Cache │ PostgreSQL, SQLite (WAL / ACID), Supabase, Firebase, IndexedDB │ │ Ciberseguridad & Redes │ FIDO2 / WebAuthn, DPI (Deep Packet Inspection), Scapy, Linux OS │ │ Inteligencia Artificial │ LLM Tool-Calling, RAG Pipelines, Hugging Face Inference API │ │ Despliegue & Cloud │ Vercel Edge, Google Cloud Platform (GCP), Docker, CI/CD Actions │ └─────────────────────────┴──────────────────────────────────────────────────────────────────┘
+```text
+┌─────────────────────────┬──────────────────────────────────────────────────────────────────┐
+│ DOMINIO                 │ STACK TECNOLÓGICO SELECCIONADO                                   │
+├─────────────────────────┼──────────────────────────────────────────────────────────────────┤
+│ Alto Rendimiento & Core │ Python 3.12, Cython (C-Extensions), C, Java (Spring Boot)        │
+│ Ecosistema FullStack    │ TypeScript, JavaScript, Next.js 14/15, Django, FastAPI, Node.js  │
+│ Interfaces & Móvil      │ React, Tailwind CSS, Flutter, HTMX, PWA Offline-First            │
+│ Bases de Datos & Cache  │ PostgreSQL, SQLite (WAL / ACID), Supabase, Firebase, IndexedDB   │
+│ Ciberseguridad & Redes  │ FIDO2 / WebAuthn, DPI (Deep Packet Inspection), Scapy, Linux OS  │
+│ Inteligencia Artificial │ LLM Tool-Calling, RAG Pipelines, Hugging Face Inference API      │
+│ Despliegue & Cloud      │ Vercel Edge, Google Cloud Platform (GCP), Docker, CI/CD Actions  │
+└─────────────────────────┴──────────────────────────────────────────────────────────────────┘
+```
 
 
 ---
